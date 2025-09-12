@@ -57,8 +57,8 @@ Me apasiona la integración de creatividad y lógica en proyectos analíticos, y
 
 ## 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeria-giselle)
-[![Correo](https://img.shields.io/badge/-valeria.godoy%40email.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:valeria.godoy@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeria-goan)
+[![Correo](https://img.shields.io/badge/-valeria.godoy%40email.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vgodoydeanda@hotmail.com)
 
 ---
 
