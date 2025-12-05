@@ -32,19 +32,19 @@ Me apasiona la integración de creatividad y lógica en proyectos analíticos, y
 ## 📊 Proyectos destacados
 
 ### 🔹 Scoring analítico para CallMeMaybe
-- Identificación de operadores ineficaces mediante KPIs clave
-- Dashboard ejecutivo en Tableau para stakeholders
-- Mejora en eficiencia operativa y toma de decisiones
+- Identificación de operadores ineficaces mediante KPIs clave.
+- Dashboard ejecutivo en Tableau para stakeholders.
+- Mejora en eficiencia operativa y toma de decisiones.
 
-### 🔹 Automatización comercial en SALES DEL VALLE
-- Proyecciones de demanda y gestión de pedidos
-- Optimización de tiempos de respuesta y facturación
-- Reducción de errores en portales SAT
+### 🔹 Análisis de tendencias Youtube para Sterling & Draper
+- Realizar un análisis de las tendencias clave para anticiparnos a lo que mueve las audiencias.
+- Insights que permiten detectar patrones emergentes y adaptar la estrategia de contenido a cada mercado con precisión y agilidad.
+- Solución a consultas frecuentes del equipo, permitiendo visualizar datos actualizados por región, categoría y fecha.
 
 ### 🔹 Dashboards simbólicos para toma de decisiones
-- Diseño visual con enfoque editorial y minimalista
-- Integración de narrativa estratégica y métricas accionables
-- Adaptación a públicos ejecutivos y operativos
+- Diseño visual con enfoque editorial y minimalista.
+- Integración de narrativa estratégica y métricas accionables.
+- Adaptación a públicos ejecutivos y operativos.
 
 ---
 
