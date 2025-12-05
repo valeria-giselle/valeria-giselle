@@ -10,10 +10,10 @@ Transformo datos en decisiones con impacto, integrando lógica, diseño y eficie
 
 Soy una profesional híbrida en administración estratégica y análisis de datos, especializada en:
 
-- Automatización de reportes y procesos operativos
-- Diseño de dashboards ejecutivos con enfoque simbólico
-- Traducción de reglas de negocio en lógica de código y métricas accionables
-- Consultoría organizacional y eficiencia comercial
+- Automatización de reportes y procesos operativos.
+- Diseño de dashboards ejecutivos con enfoque simbólico.
+- Traducción de reglas de negocio en lógica de código y métricas accionables.
+- Consultoría organizacional y eficiencia comercial.
 
 Me apasiona la integración de creatividad y lógica en proyectos analíticos, y disfruto el proceso iterativo de diseño visual con propósito.
 
