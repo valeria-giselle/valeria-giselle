@@ -26,6 +26,7 @@ Me apasiona la integración de creatividad y lógica en proyectos analíticos, y
 Evaluación del impacto de cambios en el diseño de una aplicación mediante un
 experimento A/A/B, analizando el comportamiento de los usuarios a lo largo del
 embudo de conversión.
+
 🔗 https://github.com/valeria-giselle/Product-ab-test-analysis
 
 ---
@@ -34,6 +35,7 @@ embudo de conversión.
 Análisis del rendimiento de campañas de marketing mediante métricas clave como
 ROMI, CAC, LTV y retención, con el objetivo de identificar las fuentes de
 adquisición más rentables.
+
 🔗 https://github.com/valeria-giselle/Business-performance-analysis
 
 ---
@@ -42,6 +44,7 @@ adquisición más rentables.
 Comparación del comportamiento de usuarios e ingresos entre distintos planes de
 telefonía utilizando pruebas estadísticas para respaldar decisiones de pricing
 y estrategia comercial.
+
 🔗 https://github.com/valeria-giselle/Hypothesis-testing-telecom-plans
 
 ---
@@ -50,6 +53,7 @@ y estrategia comercial.
 Desarrollo y despliegue de una aplicación web para la exploración de datos,
 enfocada en la creación de entornos virtuales y buenas prácticas de ingeniería
 de software.
+
 🔗 https://github.com/valeria-giselle/Proyecto-API-datos
 
 ---
@@ -57,6 +61,7 @@ de software.
 ### 📺 Análisis de tendencias en YouTube
 Análisis exploratorio y visual de tendencias de contenido en YouTube utilizando
 Tableau, con el objetivo de identificar patrones de popularidad y engagement.
+
 🔗 https://github.com/valeria-giselle/Analisis-de-tendencias-Youtube
 
 ---
