@@ -1,8 +1,9 @@
-# 👩‍💻 Valeria Giselle Godoy De Anda
+# Hola, soy Valeria 👋
 
-**Analista de Datos | Estratega Comercial | Diseñadora de Dashboards con Propósito**
-
-Transformo datos en decisiones con impacto, integrando lógica, diseño y eficiencia operativa. Mi enfoque combina automatización inteligente, visualización ejecutiva y narrativa estratégica para generar soluciones accionables y simbólicamente poderosas.
+👩‍💻 Soy **Data Analyst** con experiencia en análisis de producto, pruebas A/B,
+estadística aplicada y análisis de desempeño de negocio.
+Me enfoco en transformar datos en **insights accionables** que apoyen la toma
+de decisiones en producto, marketing y estrategia.
 
 ---
 
@@ -19,7 +20,65 @@ Me apasiona la integración de creatividad y lógica en proyectos analíticos, y
 
 ---
 
+## 📊 Proyectos destacados
+
+### 📊 Análisis de prueba A/B (Producto)
+Evaluación del impacto de cambios en el diseño de una aplicación mediante un
+experimento A/A/B, analizando el comportamiento de los usuarios a lo largo del
+embudo de conversión.
+🔗 https://github.com/valeria-giselle/Product-ab-test-analysis
+
+---
+
+### 📈 Análisis de desempeño de negocio (ROMI & Cohortes)
+Análisis del rendimiento de campañas de marketing mediante métricas clave como
+ROMI, CAC, LTV y retención, con el objetivo de identificar las fuentes de
+adquisición más rentables.
+🔗 https://github.com/valeria-giselle/Business-performance-analysis
+
+---
+
+### 📞 Pruebas de hipótesis: planes de telefonía
+Comparación del comportamiento de usuarios e ingresos entre distintos planes de
+telefonía utilizando pruebas estadísticas para respaldar decisiones de pricing
+y estrategia comercial.
+🔗 https://github.com/valeria-giselle/Hypothesis-testing-telecom-plans
+
+---
+
+### 🌐 Proyecto de API de datos
+Desarrollo y despliegue de una aplicación web para la exploración de datos,
+enfocada en la creación de entornos virtuales y buenas prácticas de ingeniería
+de software.
+🔗 https://github.com/valeria-giselle/Proyecto-API-datos
+
+---
+
+### 📺 Análisis de tendencias en YouTube
+Análisis exploratorio y visual de tendencias de contenido en YouTube utilizando
+Tableau, con el objetivo de identificar patrones de popularidad y engagement.
+🔗 https://github.com/valeria-giselle/Analisis-de-tendencias-Youtube
+
+---
+
 ## 🛠️ Tecnologías y herramientas
+
+**Análisis de datos:**  
+- Python (Pandas, NumPy, SciPy)
+
+**Estadística:**  
+- Pruebas A/B y A/A/B  
+- Pruebas de hipótesis  
+
+**Visualización:**  
+- Matplotlib  
+- Seaborn  
+- Tableau
+- Power BI  
+
+**Otras herramientas:**  
+- SQL (básico/intermedio)  
+- Git & GitHub
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -29,22 +88,10 @@ Me apasiona la integración de creatividad y lógica en proyectos analíticos, y
 
 ---
 
-## 📊 Proyectos destacados
+## 🌐 Conecta conmigo
 
-### 🔹 Scoring analítico para CallMeMaybe
-- Identificación de operadores ineficaces mediante KPIs clave.
-- Dashboard ejecutivo en Tableau para stakeholders.
-- Mejora en eficiencia operativa y toma de decisiones.
-
-### 🔹 Análisis de tendencias Youtube para Sterling & Draper
-- Realizar un análisis de las tendencias clave para anticiparnos a lo que mueve las audiencias.
-- Insights que permiten detectar patrones emergentes y adaptar la estrategia de contenido a cada mercado con precisión y agilidad.
-- Solución a consultas frecuentes del equipo, permitiendo visualizar datos actualizados por región, categoría y fecha.
-
-### 🔹 Dashboards simbólicos para toma de decisiones
-- Diseño visual con enfoque editorial y minimalista.
-- Integración de narrativa estratégica y métricas accionables.
-- Adaptación a públicos ejecutivos y operativos.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeria-goan)
+[![Correo](https://img.shields.io/badge/-valeria.godoy%40email.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vgodoydeanda@hotmail.com)
 
 ---
 
@@ -52,13 +99,6 @@ Me apasiona la integración de creatividad y lógica en proyectos analíticos, y
 
 ![Valeria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=valeria-giselle&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valeria-giselle&layout=compact&theme=radical)
-
----
-
-## 🌐 Conecta conmigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeria-goan)
-[![Correo](https://img.shields.io/badge/-valeria.godoy%40email.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vgodoydeanda@hotmail.com)
 
 ---
 
