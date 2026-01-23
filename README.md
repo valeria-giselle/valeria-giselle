@@ -39,7 +39,7 @@ adquisición más rentables.
 
 🔗 https://github.com/valeria-giselle/Business-performance-analysis
 
-### 📱 Análisis SQL para lanzamiento de App**  
+### 📱 Análisis SQL para lanzamiento de App  
 Proyecto de SQL enfocado en análisis de libros, autores y reseñas para
 apoyar decisiones estratégicas en el lanzamiento de una aplicación. Incluye consultas complejas, reglas de negocio y diagrama de datos.
 
