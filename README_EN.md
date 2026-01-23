@@ -27,7 +27,7 @@ product changes, and support strategic decision-making through data.
 
 # ✨ Featured Projects
 
-## Business & Data Analysis
+## 📊 Business & Data Analysis
 
 ### 📈 Business Performance Analysis (ROMI & Cohorts)  
 Analysis of key metrics such as ROMI, CAC, LTV, and retention to evaluate the performance of different acquisition channels.  
