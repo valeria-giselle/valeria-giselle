@@ -25,7 +25,7 @@ product changes, and support strategic decision-making through data.
 
 ---
 
-# 📊 Featured Projects
+# ✨ Featured Projects
 
 ## Business & Data Analysis
 
