@@ -1,3 +1,8 @@
+🌐 **Lenguaje:**  
+[English version](README_EN.md)
+
+---
+
 # Hola, soy Valeria 👋
 
 👩‍💻 Soy **Data Analyst** con enfoque en análisis de negocio y producto.
@@ -74,7 +79,7 @@ patrones asociados a la cancelación, con recomendaciones estratégicas orientad
 
 ---
 
-## 🌐 Desarrollo de Aplicaciones de Datos
+## 💻 Desarrollo de Aplicaciones de Datos
 
 ### 🌐 Proyecto de API de datos
 Desarrollo y despliegue de una aplicación web para la exploración de datos,
@@ -111,7 +116,7 @@ de software.
 
 ---
 
-## 🌐 Conecta conmigo
+## 📫 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeria-goan)
 [![Correo](https://img.shields.io/badge/-valeria.godoy%40email.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vgodoydeanda@hotmail.com)
